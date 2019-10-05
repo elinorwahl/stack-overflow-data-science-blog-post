@@ -45,6 +45,8 @@ The analysis turned up a lot of interesting findings, which are expanded on in t
 
 3. The country of respondents has a subtle but noticeable impact on the way they pursue informal programming education. For example, people in the United States, United Kingdom and Germany are more likely to teach themselves new skills with no direction. Brazilians are most likely to learn from online part-time courses. And Indian respondents are most likely to participate in online coding competitions.
 
+You can find the blog post related to these observations [here](https://medium.com/@shamziel/coders-in-the-wild-4a6da8d08e5e).
+
 ## Acknowledgements
 
 My thanks, once again, to Stack Overflow and Stack Exchange, Inc. for making their yearly  developer survey public at https://insights.stackoverflow.com/survey.
